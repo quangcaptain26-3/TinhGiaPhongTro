@@ -1,0 +1,11 @@
+D:\winform\Đăng ký môn học\Đăng ký môn học\bin\Debug\Đăng ký môn học.exe.config
+D:\winform\Đăng ký môn học\Đăng ký môn học\bin\Debug\Đăng ký môn học.exe
+D:\winform\Đăng ký môn học\Đăng ký môn học\bin\Debug\Đăng ký môn học.pdb
+D:\winform\Đăng ký môn học\Đăng ký môn học\obj\Debug\Đăng ký môn học.csproj.AssemblyReference.cache
+D:\winform\Đăng ký môn học\Đăng ký môn học\obj\Debug\Đăng ký môn học.csproj.SuggestedBindingRedirects.cache
+D:\winform\Đăng ký môn học\Đăng ký môn học\obj\Debug\Đăng_ký_môn_học.Form1.resources
+D:\winform\Đăng ký môn học\Đăng ký môn học\obj\Debug\Đăng_ký_môn_học.Properties.Resources.resources
+D:\winform\Đăng ký môn học\Đăng ký môn học\obj\Debug\Đăng ký môn học.csproj.GenerateResource.cache
+D:\winform\Đăng ký môn học\Đăng ký môn học\obj\Debug\Đăng ký môn học.csproj.CoreCompileInputs.cache
+D:\winform\Đăng ký môn học\Đăng ký môn học\obj\Debug\Đăng ký môn học.exe
+D:\winform\Đăng ký môn học\Đăng ký môn học\obj\Debug\Đăng ký môn học.pdb
