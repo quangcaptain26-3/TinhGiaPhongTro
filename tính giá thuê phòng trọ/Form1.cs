@@ -20,7 +20,7 @@ namespace tính_giá_thuê_phòng_trọ
         private void buttonthoat_Click(object sender, EventArgs e)
         {
             DialogResult thongbao;
-            thongbao = (MessageBox.Show("Bạn có muốn thoát ra không?", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Warning));
+            thongbao = (MessageBox.Show("Bạn có muốn thoát ra không hả?", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Warning));
             if(thongbao == DialogResult.Yes)
             {
                 Application.Exit();
